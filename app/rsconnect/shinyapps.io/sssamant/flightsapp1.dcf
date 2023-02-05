@@ -1,0 +1,13 @@
+name: flightsapp1
+title: flightsapp1
+username:
+account: sssamant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8229300
+bundleId: 6812837
+url: https://sssamant.shinyapps.io/flightsapp1/
+when: 1675635596.51531
+lastSyncTime: 1675635596.51531
+asMultiple: FALSE
+asStatic: FALSE
